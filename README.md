@@ -40,6 +40,7 @@ You can read more about other primer modules in the [full primer docs][docs].
 <!-- %docs
 title: Avatars
 status: Stable
+homepage: https://github.com/primer/avatars
 -->
 
 ### Avatars
