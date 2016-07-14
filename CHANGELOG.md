@@ -1,3 +1,7 @@
+# HEAD
+
+ * Make sure the modules build without error before publishing - Jon Rohan [github/github@57ac5e6](https://github.com/github/github/commit/57ac5e6)
+
 # v0.2.3
 
  * Publishing a new version - Jon Rohan [github/github@eed0e96](https://github.com/github/github/commit/eed0e96)
