@@ -1,5 +1,6 @@
 # HEAD
 
+ * Updating the modules stylelint - Jon Rohan [github/github@389609f](https://github.com/github/github/commit/389609f)
  * Make sure the modules build without error before publishing - Jon Rohan [github/github@57ac5e6](https://github.com/github/github/commit/57ac5e6)
 
 # v0.2.3
