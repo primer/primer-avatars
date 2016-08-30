@@ -70,7 +70,7 @@ We occasionally use smaller avatars. Anything less than `48px` wide should inclu
 When you need a larger parent avatar, and a smaller child one, overlaid slightly, use the parent-child classes.
 
 ```html
-<div class="avatar-parent-child left">
+<div class="avatar-parent-child float-left">
   <img class="avatar" src="/jonrohan.png?v=3&s=96" width="48" height="48">
   <img class="avatar avatar-child" src="/josh.png?v=3&s=40" width="20" height="20">
 </div>
