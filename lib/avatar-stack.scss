@@ -12,6 +12,7 @@
     display: inline-block;
     width: 20px;
     height: 20px;
+    box-sizing: content-box;
     margin-right: -15px;
     background-color: #fff;
     border-right: 1px solid #fff;
@@ -25,6 +26,7 @@
     &:last-child {
       z-index: 1;
       margin-right: 0;
+      border-right: 0;
     }
   }
 
