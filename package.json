@@ -11,9 +11,9 @@
     "lib",
     "build"
   ],
-  "repository": "https://github.com/primer/avatars.git",
+  "repository": "https://github.com/primer/primer-avatars.git",
   "bugs": {
-    "url": "https://github.com/primer/avatars/issues"
+    "url": "https://github.com/primer/primer-avatars/issues"
   },
   "scripts": {
     "setup": "if [ ! -d \"node_modules\" ]; then npm install; fi",
