@@ -1,3 +1,12 @@
+# v0.4.0
+
+ * Make it a new release - Patrick Marsceill [github/github@24c4c50](https://github.com/github/github/commit/24c4c50)
+ * Docs tweak - Patrick Marsceill [github/github@ae4f341](https://github.com/github/github/commit/ae4f341)
+ * Bump package number - Patrick Marsceill [github/github@070fca8](https://github.com/github/github/commit/070fca8)
+ * Add partial import to avatars index - Patrick Marsceill [github/github@210ba08](https://github.com/github/github/commit/210ba08)
+ * Move docs to avatars - Patrick Marsceill [github/github@2045ba4](https://github.com/github/github/commit/2045ba4)
+ * Move and rename - Patrick Marsceill [github/github@6bb6ab2](https://github.com/github/github/commit/6bb6ab2)
+
 # v0.3.0
 
  * Cutting new versions of primer modules - Jon Rohan [github/github@157f5ab](https://github.com/github/github/commit/157f5ab)
