@@ -10,8 +10,9 @@
 }
 
 .CircleBadge-icon {
-  width: 60% !important;
+  max-width: 60% !important;
   height: auto !important;
+  max-height: 55% !important;
 }
 
 // Small badge
