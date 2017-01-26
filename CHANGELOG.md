@@ -1,3 +1,7 @@
+# v0.4.2
+
+ * Bump version number for circle badge spacing tweak - Patrick Marsceill [github/github@7aac713](https://github.com/github/github/commit/7aac713)
+
 # v0.4.1
 
  * More versions - Jon Rohan [github/github@e12ba2e](https://github.com/github/github/commit/e12ba2e)
