@@ -1,3 +1,8 @@
+# v0.4.3
+
+ * Bump version for avatars package - Mu-An Chiou [github/github@25e929d](https://github.com/github/github/commit/25e929d)
+ * Remove background when only 1 avatar background is for stacking/border - Mu-An Chiou [github/github@4b4d63e](https://github.com/github/github/commit/4b4d63e)
+
 # v0.4.2
 
  * Bump version number for circle badge spacing tweak - Patrick Marsceill [github/github@7aac713](https://github.com/github/github/commit/7aac713)
