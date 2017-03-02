@@ -1,3 +1,9 @@
+# v0.4.4
+
+ * update version numbers in primer-product - broccolini [github/github@5301936](https://github.com/github/github/commit/5301936)
+ * update to rgb to white variable - broccolini [github/github@96d2590](https://github.com/github/github/commit/96d2590)
+ * update whites in avatar stack - broccolini [github/github@dc3be2f](https://github.com/github/github/commit/dc3be2f)
+
 # v0.4.3
 
  * Bump version for avatars package - Mu-An Chiou [github/github@25e929d](https://github.com/github/github/commit/25e929d)
