@@ -1,3 +1,7 @@
+# v0.4.6
+
+ * bump package version - broccolini [github/github@2034aeb](https://github.com/github/github/commit/2034aeb)
+
 # v0.4.5
 
  * Bump all the version numbers for readme - Mu-An Chiou [github/github@a9d152f](https://github.com/github/github/commit/a9d152f)
