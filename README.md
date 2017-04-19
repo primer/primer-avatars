@@ -5,7 +5,7 @@
 
 > Avatars are images that users can set as their profile picture. On GitHub, they’re always going to be rounded squares. They can be custom photos, uploaded by users, or generated as Identicons as a placeholder.
 
-This repository is a module of the full [primer-css][primer-css] repository.
+This repository is a module of the full [primer-css](https://github.com/primer/primer) repository.
 
 ## Install
 
